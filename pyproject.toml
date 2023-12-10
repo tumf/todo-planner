@@ -2,7 +2,7 @@
 name = "todo-planner"
 version = "0.1.0"
 description = ""
-authors = ["tumfwkm <tumf@wakumo.vn>"]
+authors = ["tumf"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
